@@ -1,0 +1,36 @@
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.two{
+    display: block;
+    padding: 0px;
+}
+body{
+    margin: 0;
+}
+.position{
+    position: sticky;
+    width: 100%;
+    height: 50px;
+    border: 1px solid white;
+    background-color: white;
+    top: 0;
+
+}
+.nav{
+     list-style: none;
+     border: 2px solid rgb(255, 255, 255);
+     top: 0;
+     background-color: white;
+     color: black;
+}
+.nav li{
+    display: inline-block;
+    vertical-align: middle;
+    padding : 0px 20px;
+}
